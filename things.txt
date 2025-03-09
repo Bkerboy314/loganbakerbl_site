@@ -1,5 +1,6 @@
-<html>
+notes to self
+
+title
   <title>LoganBakerBL</title>
   <img src=Watermark.png alt="LOGANBAKERBL" height="50"><br>
   <a href="home.html">Home</a> - <a href="links.html">Links</a>
-</html>
